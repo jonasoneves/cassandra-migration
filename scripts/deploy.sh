@@ -18,4 +18,4 @@
 #   limitations under the License.
 ###
 
-./mvnw source:jar javadoc:jar deploy -B -DskipTests --settings settings.xml
+./mvnw source:jar deploy -B -DskipTests --settings settings.xml
